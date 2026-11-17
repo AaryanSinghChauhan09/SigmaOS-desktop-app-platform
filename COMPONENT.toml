@@ -3,7 +3,7 @@ name = "SigmaOS-desktop-app-platform"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "desktop-app-platform component"
+description = "Desktop app platform: .desktop entries, MIME, launcher, tray, clipboard integration"
 upstream = []
 
 [contract]
